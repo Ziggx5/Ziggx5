@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Maj
 💻 I'm a student developer focused on networking, security, and building applications.
 
-🔐 Actively learning and improving my cybersecurity skills through hands-on labs and challenges.
+🔐 Actively learning and improving my cybersecurity skills through hands-on labs and challenges (https://tryhackme.com/p/ziggx).
 
 🚀 Currently working on BiteWire.
 
