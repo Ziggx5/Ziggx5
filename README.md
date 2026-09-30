@@ -1,19 +1,38 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Ziggx5&label=Profile%20views&color=0e75b6&style=for-the-badge)
+<div align="center">
 
 # 👋 Hey, I'm Maj
-💻 I'm a student developer focused on networking, security, and building applications.
 
-🔐 Actively learning and improving my cybersecurity skills through hands-on labs and challenges (https://tryhackme.com/p/ziggx).
+**Student developer · Networking · Security · Application development**
 
-🚀 Currently working on BiteWire.
+![Profile Views](https://komarev.com/ghpvc/?username=Ziggx5&label=Profile%20views&color=0e75b6&style=flat-square)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ziggx-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ziggx)
+![Discord](https://img.shields.io/badge/Discord-ziggx5-5865F2?style=flat-square&logo=discord&logoColor=white)
+</div>
 
-📈 Always learning and building.
+## 🚀 What I'm up to
 
-## 🌐 Socials:
-💬 Discord: **ziggx5**  
-📧 Email: **ziggx5.dev@gmail.com**
+- **BiteWire**: self hosted messaging app with SSL/TLS -> https://github.com/Ziggx5/BiteWire
+- 🔐 Sharpening my cybersecurity skills with hands on labs on TryHackMe
+- 📈 Always learning and building
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+**Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks and engines**
+![Qt](https://img.shields.io/badge/Qt-217346?style=flat-square&logo=Qt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**Databases and servers**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+
+## 📫 Contact
+Discord: **ziggx5** · email: ziggx5.dev@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
